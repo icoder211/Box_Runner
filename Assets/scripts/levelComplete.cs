@@ -7,4 +7,8 @@ public class levelComplete : MonoBehaviour
         SceneManager.LoadScene(0);
     }
 
+    private void FixedUpdate() {
+        
+    }
+
 }
